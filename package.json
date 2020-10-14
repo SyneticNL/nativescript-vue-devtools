@@ -1,7 +1,7 @@
 {
-  "name": "nativescript-vue-devtools",
-  "version": "1.4.0",
-  "description": "A NativeScript-Vue plugin for connecting to the standalone vue-devtools",
+  "name": "@synetic/nativescript-vue-devtools",
+  "version": "7.0.0",
+  "description": "A NativeScript-Vue plugin for connecting to the standalone vue-devtools specific for NativeScript 7",
   "main": "index.js",
   "nativescript": {
     "plugin": {
@@ -16,25 +16,27 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nativescript-vue/nativescript-vue-devtools.git"
+    "url": "git+https://github.com/SyneticNL/nativescript-vue-devtools.git"
   },
   "keywords": [
     "nativescript",
+    "nativescript7",
+    "ns7"
     "nativescript-vue",
     "devtools",
     "vue",
     "vuejs"
   ],
-  "author": "Igor Randjelovic",
+  "author": "Jordy Vleugel",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nativescript-vue/nativescript-vue-devtools/issues"
+    "url": "https://github.com/SyneticNL/nativescript-vue-devtools/issues"
   },
-  "homepage": "https://github.com/nativescript-vue/nativescript-vue-devtools#readme",
+  "homepage": "https://github.com/SyneticNL/nativescript-vue-devtools#readme",
   "peerDependencies": {
-    "nativescript-toasty": "*",
-    "nativescript-socketio": "*",
-    "tns-core-modules": "*",
-    "@vue/devtools": "*"
+    "@nativescript/core": "^7.0.11",
+    "@synetic/nativescript-toasty": "^7.0.0",
+    "nativescript-socketio": "^3.3.1",
+    "@vue/devtools": "^5.3.3"
   }
 }
