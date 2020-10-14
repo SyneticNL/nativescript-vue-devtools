@@ -27,7 +27,7 @@
     "vue",
     "vuejs"
   ],
-  "author": "Igor Randjelovic,
+  "author": "Igor Randjelovic",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/nativescript-vue/nativescript-vue-devtools/issues"
