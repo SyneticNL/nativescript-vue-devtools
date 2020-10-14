@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SyneticNL/nativescript-vue-devtools.git"
+    "url": "git+https://github.com/nativescript-vue/nativescript-vue-devtools.git"
   },
   "keywords": [
     "nativescript",
@@ -27,12 +27,12 @@
     "vue",
     "vuejs"
   ],
-  "author": "Jordy Vleugel",
+  "author": "Igor Randjelovic,
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SyneticNL/nativescript-vue-devtools/issues"
+    "url": "https://github.com/nativescript-vue/nativescript-vue-devtools/issues"
   },
-  "homepage": "https://github.com/SyneticNL/nativescript-vue-devtools#readme",
+  "homepage": "https://github.com/nativescript-vue/nativescript-vue-devtools#readme",
   "peerDependencies": {
     "@nativescript/core": "^7.0.11",
     "@synetic/nativescript-toasty": "^7.0.0",
